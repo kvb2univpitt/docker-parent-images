@@ -41,5 +41,5 @@ docker rmi local/centos7-openjdk8
 If you don't want to build the image yourself, you can use the prebuilt one on Docker Hub.  Just add the following on the first line of your Dockerfile:
 
 ```docker
-FROM kvb2univpitt/centos7-openjdk8:v1.2021.8
+FROM kvb2univpitt/centos7-openjdk8:v1.2021.10
 ```
